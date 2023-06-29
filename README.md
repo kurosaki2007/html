@@ -7,7 +7,7 @@
 </head>
 </body>
 <div class="container">
-    <img src=(https://github.com/kurosaki2007/html/assets/137503980/2c9f1e65-eeec-406f-ad26-7f9b3756496e)
+    <img src="https://github.com/kurosaki2007/html/assets/137503980/2c9f1e65-eeec-406f-ad26-7f9b3756496e"
 "sololeveling.jpg" width="1370" height="677" />
 </div>
     <h1>solo leveling</h1>
