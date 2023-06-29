@@ -7,8 +7,8 @@
 </head>
 </body>
 <div class="container">
-    <img src="sololeveling.jpg" width="1370" height="677" />
-    ![sololeveling](https://github.com/kurosaki2007/html/assets/137503980/2c9f1e65-eeec-406f-ad26-7f9b3756496e)
+    <img src=![sololeveling](https://github.com/kurosaki2007/html/assets/137503980/2c9f1e65-eeec-406f-ad26-7f9b3756496e)
+"sololeveling.jpg" width="1370" height="677" />
 </div>
     <h1>solo leveling</h1>
     <p>a historia começa com o caçador mais fraco entrando em uma dungeon de rank baixo mas na verdade era uma das dungeons mais fortes do mundo</p>
